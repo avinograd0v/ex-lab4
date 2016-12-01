@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from librip.decorators import print_result
 
 # Необходимо верно реализовать print_result

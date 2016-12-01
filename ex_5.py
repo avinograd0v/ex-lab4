@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from time import sleep
 from librip.ctxmngrs import timer
 
